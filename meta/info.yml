@@ -1,8 +1,8 @@
 name: 
-  $name
+  java-event-store-template
 type:
-  $template-type
+  java-event-store
 
 description: 
-  $description
+  A template to create a baseline event store in Java
   
